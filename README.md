@@ -1,1 +1,1 @@
-README.md
+Git Github 강의
